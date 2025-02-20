@@ -1,0 +1,5 @@
+JWT_SECRET=tair_chat_super_secret_key_2025
+VITE_API_URL=http://localhost:3001
+SUPABASE_KEY=
+OPENAI_API_KEY=
+SUPABASE_URL=
