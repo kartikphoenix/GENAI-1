@@ -1,0 +1,45 @@
+Q: Is my university subscribed to TAIR?
+
+Subscribed Institutions in Other:
+
+A: Academic users in mainland China are covered by a national subscription through the National Science and Technology Library (NSTL). Academic users in Switzerland are covered by a national subscription through the Swiss Institute of Bioinformatics (SIB). If you are an academic user in China or Switzerland, you do not need to purchase an individual or lab subscription.
+Agriculture and Agri-Food Canada , Canada
+Carleton University, Canada
+Center for Plants Systems Biology and Biotechnology, Bulgaria
+Cinvestav, Mexico
+Gregor Mendel Institute, Austria
+Hasselt University, Belgium
+Hebrew University of Jerusalem, Israel
+If your institution appears on the list below, your institution is subscribed to TAIR.
+Institute of Biochemistry and Biophysics Polish Academy of Sciences, Poland
+Leiden University, The Netherlands
+McGill University, Canada
+Mount Allison University, Canada
+National Research Council Canada, Canada
+Queen's University, Canada
+Radboud University, The Netherlands
+Tel Aviv University, Israel
+The University of British Columbia, Canada
+Trinity College Dublin, Ireland
+UiT the Artic University of Norway, Norway
+Universidad Nacional Andrés Bello, Chile
+Universidad Nacional Autonoma de Mexico, Mexico
+Universite de Sherbrooke, Canada
+Universiteit Gent, Belgium
+University of Alberta, Canada
+University of Amsterdam, The Netherlands
+University of Antwerp, Belgium
+University of Lethbridge, Canada
+University of Montreal, Canada
+University of Oslo, Norway
+University of Pretoria, South Africa
+University of Stavanger, Norway
+University of Toronto, Canada
+University of Victoria, Canada
+University of Vienna, Austria
+University of Western Ontario, Canada
+Université du Québec à Montréal, Canada
+Volcani Institute of Agricultural Research, Israel
+Wageningen UR, The Netherlands
+Weizmann Institute, Israel
+Yale University United States

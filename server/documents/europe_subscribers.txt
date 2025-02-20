@@ -1,0 +1,189 @@
+Q: Is my university subscribed to TAIR?
+
+Subscribed Institutions in Europe:
+
+Administration cantonale genevoise, Switzerland
+Administrative Headquarters of the Max Planck Society, Germany
+Art History Institute in Florence - Max-Planck-Institute, Germany
+Bern University Hospital, Switzerland
+Bern University of Applied Sciences, Switzerland
+Bibliotheca Hertziana - Max Planck Institute for Art History, Germany
+CSIC - Centro de Edafologia y Biologia Apricada del Segura (CEBAS), Spain
+Cardiff University, United Kingdom
+Centre Hospitalier Universitaire Vaudois, Switzerland
+Charles University in Prague, Faculty of Science, Czech Republic
+Christian-Albrechts-Universität zu Kiel (University of Kiel), Germany
+Durham University, United Kingdom
+EMPA Materials Science and Technology, Switzerland
+ETH Zurich, Switzerland
+Ecole Politechnique Federal de Lausanne, Switzerland
+Ecole hôtelière de Lausanne, Switzerland
+Edinburgh University, United Kingdom
+Eidgenoessisches Hochschulinstitut fuer Berufsbildung, Switzerland
+Euresearch, Switzerland
+Fachhochschule St. Gallen, Switzerland
+Fernfachhochschule Schweiz, Switzerland
+Friedrich Miescher Laboratory of the Max Planck Society, Germany
+Fritz Haber Institute of the Max Planck Society, Germany
+German National Library of Science and Technology - TIB, Germany
+Haute Ecole Neuchatel Berne Jura, Switzerland
+Haute Ecole pedagogique Fribourg, Switzerland
+Haute ecole pedagogique du canton de Vaud, Switzerland
+Helsinki University, Finland
+Hochschule fuer Technik Bern, Switzerland
+Hochschule fuer Technik Burgdorf, Switzerland
+Hochschule fuer Technik Chur, Switzerland
+Hochschule fuer Technik Rapperswil, Switzerland
+Hochschule fuer Technik und Architektur Biel, Switzerland
+Hoehere Fachschule fuer Technik Mittelland, Switzerland
+Humboldt University Berlin, Germany
+IMD, Switzerland
+INRAE, France
+IRD Montpellier, France
+Imperial College London, United Kingdom
+Innerstaatliche Hochschule fuer Technik Buchs, Switzerland
+Institute of Biological Sciences (INSB) - CNRS, France
+Institute of Ecology & Environment (INEE) - CNRS, France
+Institute of Experimental Botany AS CR, v.v.i., Czech Republic
+Interkantonale Hochschule fuer Heilpaedagogik, Switzerland
+James Hutton Institute, United Kingdom
+Kantonsspital Basel, Switzerland
+Laureate Hospitality Education, Switzerland
+Leibniz Institute of Plant Biochemistry, Germany
+Leibniz Institute of Vegetable and Ornamental Crops, Germany
+Lucerne University of Applied Sciences and Arts, Switzerland
+Lund University, Sweden
+Max Planck Digital Library, Germany
+Max Planck Institute for Astronomy, Germany
+Max Planck Institute for Astrophysics, Germany
+Max Planck Institute for Biogeochemistry, Germany
+Max Planck Institute for Biological Cybernetics, Germany
+Max Planck Institute for Biological Intelligence, Germany
+Max Planck Institute for Biology Tuebingen, Germany
+Max Planck Institute for Chemical Ecology, Germany
+Max Planck Institute for Chemical Energy Conversion, Germany
+Max Planck Institute for Chemical Physics of Solids, Germany
+Max Planck Institute for Chemistry (Otto Hahn Institute), Germany
+Max Planck Institute for Comparative and International Private Law, Germany
+Max Planck Institute for Cyber Security and Privacy, Germany
+Max Planck Institute for Demographic Research, Germany
+Max Planck Institute for Dynamics and Self-Organization, Germany
+Max Planck Institute for Dynamics of Complex Technical Systems, Germany
+Max Planck Institute for Empirical Aesthetics, Germany
+Max Planck Institute for Evolutionary Anthropology, Germany
+Max Planck Institute for Evolutionary Biology, Germany
+Max Planck Institute for Extraterrestrial Physics, Germany
+Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Germany
+Max Planck Institute for Heart and Lung Research (W. G. Kerckhoff Institute), Germany
+Max Planck Institute for Human Cognitive and Brain Sciences, Germany
+Max Planck Institute for Human Development, Germany
+Max Planck Institute for Infection Biology, Germany
+Max Planck Institute for Informatics, Germany
+Max Planck Institute for Innovation and Competition, Germany
+Max Planck Institute for Intelligent Systems, Germany
+Max Planck Institute for Marine Microbiology, Germany
+Max Planck Institute for Mathematics in the Sciences, Germany
+Max Planck Institute for Mathematics, Germany
+Max Planck Institute for Medical Research, Germany
+Max Planck Institute for Metabolism Research, Germany
+Max Planck Institute for Meteorology, Germany
+Max Planck Institute for Nuclear Physics, Germany
+Max Planck Institute for Plant Breeding Research, Germany
+Max Planck Institute for Polymer Research, Germany
+Max Planck Institute for Psycholinguistics, Germany
+Max Planck Institute for Radio Astronomy, Germany
+Max Planck Institute for Research on Collective Goods, Germany
+Max Planck Institute for Social Anthropology, Germany
+Max Planck Institute for Social Law and Social Policy, Germany
+Max Planck Institute for Software Systems, Germany
+Max Planck Institute for Solar System Research, Germany
+Max Planck Institute for Solid State Research, Germany
+Max Planck Institute for Terrestrial Microbiology, Germany
+Max Planck Institute for the Biology of Ageing, Germany
+Max Planck Institute for the History of Science, Germany
+Max Planck Institute for the Physics of Complex Systems, Germany
+Max Planck Institute for the Science of Light, Germany
+Max Planck Institute for the Study of Religious and Ethnic Diversity, Germany
+Max Planck Institute for the Study of Societies, Germany
+Max Planck Institute of Animal Behavior, Germany
+Max Planck Institute of Biochemistry, Germany
+Max Planck Institute of Biophysics, Germany
+Max Planck Institute of Coal Research, Germany
+Max Planck Institute of Colloids and Interfaces, Germany
+Max Planck Institute of Immunobiology and Epigenetics, Germany
+Max Planck Institute of Microstructure Physics, Germany
+Max Planck Institute of Molecular Biomedicine, Germany
+Max Planck Institute of Molecular Physiology, Germany
+Max Planck Institute of Molecular Plant Physiology, Germany
+Max Planck Institute of Physics (Werner Heisenberg Institute), Germany
+Max Planck Institute of Quantum Optics, Germany
+Max Planck Research Unit for Pathogens, Germany
+Max-Planck-Institute for Neurobiology of Behavior (Caesar), Germany
+MeteoSwiss, Switzerland
+National Emergency Operations Centre, Switzerland
+Norwich Bioscience Institutes, United Kingdom
+Osnabrueck University, Germany
+Paedagogische Hochschule Thurgau, Switzerland
+Paul Scherrer Institute, Switzerland
+Phys.Meteo.Observatorium Davos, Switzerland
+Ruhr-Bochum University, Germany
+SWITCH, Switzerland
+Schweizerische Hochschule fuer Landwirtschaft, Switzerland
+Scuola universitaria professionale della Svizzera italiana, Switzerland
+Swiss Federal Institute for Forest, Snow and Landscape Research WSL, Switzerland
+Swiss National Science Foundation, Switzerland
+Swiss National Supercomputing Centre, Switzerland
+Syngenta, Switzerland
+Tartu University, Estonia
+Tuscia University, Italy
+Umea University, Sweden
+Universitaet Bielefeld, Germany
+Universitaetsbibliothek Erlangen Nuremberg, Germany
+Universitat Autonoma de Barcelona, Spain
+University Hospital Zurich, Switzerland
+University Hospitals of Geneva, Switzerland
+University of Applied Sciences and Arts Northwestern Switzerland Basel, Switzerland
+University of Applied Sciences and Arts Northwestern Switzerland Brug, Switzerland
+University of Applied Sciences and Arts Northwestern Switzerland, Aargau, Switzerland
+University of Applied Sciences and Arts Western Switzerland Fribourg, Switzerland
+University of Applied Sciences and Arts Western Switzerland Yverdon, Switzerland
+University of Applied Sciences and Arts Western Switzerland, Switzerland
+University of Basel, Switzerland
+University of Bath, United Kingdom
+University of Bern, Switzerland
+University of Birmingham, United Kingdom
+University of Bristol, United Kingdom
+University of Cambridge, United Kingdom
+University of Cologne, Germany
+University of Duesseldorf, Germany
+University of East Anglia, United Kingdom
+University of Essex, United Kingdom
+University of Exeter, United Kingdom
+University of Fribourg, Switzerland
+University of Geneva, Switzerland
+University of Goettingen, Germany
+University of Gothenburg, Sweden
+University of Halle, Germany
+University of Hamburg, Germany
+University of Lausanne, Switzerland
+University of Leeds, United Kingdom
+University of Leicester, United Kingdom
+University of Liechtenstein, Switzerland
+University of Manchester, United Kingdom
+University of Munster - Biology Department, Germany
+University of Neuchatel, Switzerland
+University of Oxford, United Kingdom
+University of Padova, Italy
+University of Regensburg, Germany
+University of Sheffield, United Kingdom
+University of St. Gallen, Switzerland
+University of Turku, Finland
+University of York, United Kingdom
+University of Zurich, Switzerland
+Wissenschaftliches Netz Wallis, Switzerland
+World Business Council for Sustainable Development, Switzerland
+Wuerzburg University, Germany
+Zuercher Hochschule der Kuenste, Switzerland
+Zuercher Hochschule fuer Angewandte Wissenschaften ZHAW Waedenswil, Switzerland
+Zuercher Hochschule fuer Angewandte Wissenschaften ZHAW Winterthur, Switzerland
+Zurich University of Teacher Education, Switzerland

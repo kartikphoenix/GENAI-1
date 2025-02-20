@@ -1,0 +1,28 @@
+Q: Is my university subscribed to TAIR?
+
+Subscribed Institutions in Asia:
+
+Academia Sinica, Taiwan
+CSIR - National Botanical Research Institute, India
+Chung-Ang University, South Korea
+Hong Kong University of Science and Technology (HKUST), Hong Kong
+Indian Institute Of Science Education And Research Kolkata (IISER - Kolkalta), India
+Indian Institute of Science Education and Research (IISER) Tirupati, India
+Indian Institute of Science Education and Research Bhopal, India
+Indian Institute of Science, Bengaluru, India
+Indian Institute of Technology Roorkee, India
+KAIST, South Korea
+King Abdullah University of Science and Technology, Saudi Arabia
+NIPGR, India
+Nagoya University, Japan
+Nanyang Technological University, Singapore
+National Sun Yat-sen University, Taiwan
+National University of Singapore, Singapore
+RIKEN, Japan
+Seoul National University, South Korea
+Sookmyung Women's University, South Korea
+The Chinese University of Hong Kong (CUHK), Hong Kong
+Tzu Chi University, Taiwan
+University of Hong Kong, Hong Kong
+University of Tokyo, Japan
+Yonsei University, South Korea

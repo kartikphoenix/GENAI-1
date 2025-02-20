@@ -1,0 +1,30 @@
+["I hit this page https://ui.arabidopsis.org/#/contentaccess/metering?exceed=blacklisted&partnerId=tair&remoteIp=73.158.244.15&redirect=https:%2F%2Fwww.arabidopsis.org%2Fdownload%2Flist%3Fdir%3DSubscriber_Data_Releases. What can I do?", "Based on the error message you encountered, it appears you have exceeded your access limit for TAIR (The Arabidopsis Information Resource). Here are some steps you can take:
+
+1. Check if your institution is covered by a subscription. Academic users in mainland China are covered by a national subscription through the National Science and Technology Library (NSTL), and academic users in Switzerland are covered through the Swiss Institute of Bioinformatics (SIB).
+
+2. If you are from an institution that should have access but you're experiencing problems, If your institution is listed, try accessing the site from on campus or use your library's proxy server for off-campus access.
+
+3. If your institution does not have a subscription, consider subscribing as an individual while waiting for your library to process a subscription.
+
+4. If you continue to experience issues or receive error messages, email TAIR support at info@phoenixbioinformatics.org with the following information:
+   - Your institution's name
+   - The complete URL of the metering block page (including the "remoteIp=" phrase)
+   - Your IP address from within your institution's network
+
+5. For users unable to view any pages or encountering error messages, email info@phoenixbioinformatics.org with details about the error, including the complete URL, a screenshot if possible, and the sequence of actions that led to the error.
+
+For users in China specifically:
+
+1. Most Chinese universities and research institutes should have their IP addresses registered with NSTL, allowing direct access to TAIR through the institutional network.
+
+2. If you're unable to access TAIR and see a message like "You have exceeded your limit for this month," first check the list of subscribing institutions on the TAIR website.
+
+3. If your institution should have access but you're still encountering issues, contact your institution's library. They should communicate directly with NSTL to update IP addresses if necessary.
+
+4. If your institution is listed but you still can't access TAIR, the problem may be due to:
+   - Attempting to access from outside your institution's network
+   - Your institution's IP address has changed but NSTL hasn't been notified
+
+5. For IP address changes or access activation, your institution's library should contact the National Science and Technology Literature Center (Liu Zheng) at nstl1@istic.ac.cn or phone 010-58882060. Individual IP change requests are not accepted.
+
+6. If you have further questions, you can email TAIR at info@phoenixbioinformatics.org. Provide your institution's name in both Chinese and English, the institution's IP address, and the complete URL of the problematic webpage."]

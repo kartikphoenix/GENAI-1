@@ -1,0 +1,53 @@
+["What is TAIR? Who uses TAIR?", "The Arabidopsis Information Resource (TAIR) is an online database of genetic and molecular biology data for the model plant Arabidopsis thaliana. TAIR is considered an indispensable resource for thousands of researchers around the world who work with Arabidopsis. TAIR is also commonly used by plant biologists working with other plants because the amount of information available for Arabidopsis is vast compared with most other plants and the research results from Arabidopsis are often directly relevant to other plant species."]
+["What is Arabidopsis thaliana?","Arabidopsis thaliana is an important reference plant for the plant kingdom. Because of its small physical size, short life cycle and small genome it was adopted as the standard laboratory organism for the study of higher plants and its genome sequence was completed in 2000. Many fundamental research questions about plants have been studied in Arabidopsis in great detail, such as how plants grow, reproduce, sense their environment and adapt to it. Approximately 4000 new research articles on Arabidopsis are published every year."]
+["How is TAIR different from bibliographic databases like PubMed and BIOSIS?", "TAIR is a database of knowledge about Arabidopsis, contributed by researchers or extracted from (and linked back to) research articles by biocurators with graduate or postdoctoral training as plant biology researchers. The information is presented in a highly integrated and standardized format for efficient querying and use in large scale data analyses. Searches within TAIR are not bibliographic searches; they search the accumulated knowledge about Arabidopsis directly, with links to the articles from which the information was gathered."]
+["How do you track TAIR usage? Where can I get my institution's usage statistics?", "We use an internal tracker that tracks usage based on IP address. We are happy to pull your usage for you at your request."]
+["What is the difference between TAIR and other resources with similar data sets?", "There are many different sites that display Arabidopsis data. TAIR produces gene function annotation data through its own curation effort by professional curators and by collecting data directly from authors through a TAIR-journal collaboration. As a data provider, we share data with resources after the data have been in TAIR for one year, which means that the TAIR data you see at these other sites is at least a year out of date. Types of data that we add continuously to TAIR include gene function information, gene symbols, alleles and mutant phenotypes, publications, and gene expression pattern. In addition, our expert curators are easily accessible via our Helpdesk, and will happily provide customized datasets to subscribers upon request."]
+["Do you support off-campus access?", "Yes! Off-campus access is possible if you are able to provide us with the IP address(es) for your institution’s proxy server when you subscribe. However, Phoenix Bioinformatics is not able to support Shibboleth or other single-sign-on technologies at this time."]
+["Can we get trial access?", "We offer 1-month free trials to institutions considering a TAIR subscription. If you are a librarian or other individual with purchasing privileges, please contact us and we’d be happy to provide you with a quote and free trial."]
+
+["Do you support E-Z Proxy?", "Many of our subscribers use EZ-Proxy for their off-campus access.
+If you are a subscriber and need our configuration stanza, it is as follows:
+U http://www.arabidopsis.org
+HJ www.arabidopsis.org
+DJ arabidopsis.org
+U http://api.arabidopsis.org
+HJ api.arabidopsis.org
+DJ api.arabidopsis.org
+U http://data.arabidopsis.org
+HJ data.arabidopsis.org
+DJ data.arabidopsis.org
+U http://seqviewer.arabidopsis.org
+HJ seqviewer.arabidopsis.org
+DJ seqviewer.arabidopsis.org
+U http://gbrowse.arabidopsis.org
+HJ gbrowse.arabidopsis.org
+DJ gbrowse.arabidopsis.org
+U http://jbrowse.arabidopsis.org
+HJ jbrowse.arabidopsis.org
+DJ jbrowse.arabidopsis.org
+U http://jbrowse2.arabidopsis.org
+HJ jbrowse2.arabidopsis.org
+DJ jbrowse2.arabidopsis.org
+U http://phylogenes.arabidopsis.org
+HJ phylogenes.arabidopsis.org
+DJ phylogenes.arabidopsis.org
+U http://phylogenes-api.arabidopsis.org
+HJ phylogenes-api.arabidopsis.org
+DJ phylogenes-api.arabidopsis.org
+U http://phylogenes-data.arabidopsis.org
+HJ phylogenes-data.arabidopsis.org
+DJ phylogenes-data.arabidopsis.org
+U https://arabidopsis.org
+U https://www.arabidopsis.org
+U https://api.arabidopsis.org
+U https://data.arabidopsis.org
+U https://seqviewer.arabidopsis.org
+U https://gbrowse.arabidopsis.org
+U https://jbrowse.arabidopsis.org
+U https://jbrowse2.arabidopsis.org
+U https://phylogenes.arabidopsis.org
+U https://phylogenes-api.arabidopsis.org
+U https://phylogenes-data.arabidopsis.org"]
+["Do you support OpenAthens?", "Yes! We support OpenAthens as we authenticate organizations based on their IP addresses. Please provide the IP address of your OpenAthens proxy/VPN when you set up your organizational subscription with us."]
+["Do you support Shibboleth?", "Sorry we do not support Shibboleth for now. Our team is working on expanding our supported agent type, please feel free to reach out later."]
