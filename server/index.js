@@ -17,6 +17,8 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
+const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY);
+
 function preprocessContent(filename, content) {
   // Remove extra whitespace and normalize quotes
   content = content.replace(/[\u2018\u2019]/g, "'").replace(/[\u201C\u201D]/g, '"');
