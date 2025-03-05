@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { RefreshCw, Trash2, Loader2, AlertTriangle } from 'lucide-react';
 import { useAuth } from '../contexts/AuthContext';
-import dotenv from 'dotenv';
-dotenv.config();
+// import dotenv from 'dotenv';
+// dotenv.config();
 
 interface AdminControlsProps {
   onStatusUpdate: (message: string, type: 'system' | 'error') => void;
@@ -21,7 +21,7 @@ const AdminControls: React.FC<AdminControlsProps> = ({ onStatusUpdate }) => {
   const clearEmbeddings = async () => {
     try {
       setIsProcessing(true);
-      const response = await fetch(`${process.env.VITE_API_URL}/api/clear-embeddings`, {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/clear-embeddings`, {
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${localStorage.getItem('token')}`
@@ -51,7 +51,7 @@ const AdminControls: React.FC<AdminControlsProps> = ({ onStatusUpdate }) => {
       }
 
       console.log('Starting reprocess operation...');
-      const response = await fetch(`${process.env.VITE_API_URL}/api/reprocess`, {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/reprocess`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
