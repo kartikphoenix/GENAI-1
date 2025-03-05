@@ -1,18 +1,23 @@
-import express from 'express';
-import cors from 'cors';
-import { createClient } from '@supabase/supabase-js';
 import dotenv from 'dotenv';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { searchSimilarContent, generateAnswer, processFiles } from './index.js';
-import { login, register, authenticateToken } from './auth.js';
-
-// dotenv.config();
-dotenv.config({ path: '../.env' });
 
 // Get the directory name of the current module
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+
+// Load env first, with proper path resolution
+dotenv.config({ path: path.resolve(__dirname, '../.env') });
+
+// Log to debug
+console.log('Environment loaded. SUPABASE_URL:', process.env.SUPABASE_URL);
+
+// Now do the imports
+import express from 'express';
+import cors from 'cors';
+import { createClient } from '@supabase/supabase-js';
+import { searchSimilarContent, generateAnswer, processFiles } from './index.js';
+import { login, register, authenticateToken } from './auth.js';
 
 const app = express();
 app.use(cors());
