@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { useAuth } from '../contexts/AuthContext';
 import { motion } from 'framer-motion';
-import dotenv from 'dotenv';
-dotenv.config();
+// import dotenv from 'dotenv';
+// dotenv.config();
 
 const Login: React.FC = () => {
   const [email, setEmail] = useState('');
@@ -15,7 +15,7 @@ const Login: React.FC = () => {
     e.preventDefault();
     try {
       if (isRegistering) {
-        const response = await fetch(`${process.env.VITE_API_URL}/api/auth/register`, {
+        const response = await fetch(`${import.meta.env.VITE_API_URL}/auth/register`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ email, password }),
