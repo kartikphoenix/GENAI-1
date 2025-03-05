@@ -5,6 +5,15 @@ import dotenv from 'dotenv';
 
 // dotenv.config();
 dotenv.config({ path: '../.env' });
+// Add this at the beginning of your file
+console.log('Current working directory:', process.cwd());
+console.log('Trying to load .env from:', '../.env');
+dotenv.config({ path: '../.env' });
+console.log('Environment variables after loading:');
+console.log('SUPABASE_URL:', process.env.SUPABASE_URL);
+dotenv.config({ path: '/home/ec2-user/genai/GENAI-1/.env' });
+console.log('Environment variables 2 after loading:');
+console.log('SUPABASE_URL:', process.env.SUPABASE_URL);
 
 const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY);
 
