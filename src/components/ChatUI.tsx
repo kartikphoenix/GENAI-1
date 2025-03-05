@@ -3,6 +3,8 @@ import { Send, Loader2, Bot, User, AlertCircle, Info, LogOut } from 'lucide-reac
 import { motion, AnimatePresence } from 'framer-motion';
 import AdminControls from './AdminControls';
 import { useAuth } from '../contexts/AuthContext';
+import dotenv from 'dotenv';
+dotenv.config();
 
 interface Message {
   id: string;
@@ -132,7 +134,7 @@ const ChatUI: React.FC = () => {
     setIsLoading(true);
 
     try {
-      const response = await fetch('http://localhost:3001/api/chat', {
+      const response = await fetch(`${process.env.VITE_API_URL}/api/chat`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
