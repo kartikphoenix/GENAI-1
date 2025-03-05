@@ -7,8 +7,8 @@ import { fileURLToPath } from 'url';
 import { searchSimilarContent, generateAnswer, processFiles } from './index.js';
 import { login, register, authenticateToken } from './auth.js';
 
-
-dotenv.config();
+// dotenv.config();
+dotenv.config({ path: '../.env' });
 
 // Get the directory name of the current module
 const __filename = fileURLToPath(import.meta.url);

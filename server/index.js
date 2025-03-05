@@ -4,7 +4,8 @@ import dotenv from 'dotenv';
 import fs from 'fs/promises';
 import path from 'path';
 
-dotenv.config();
+// dotenv.config();
+dotenv.config({ path: '../.env' });
 
 const supabaseUrl = process.env.SUPABASE_URL;
 const supabaseKey = process.env.SUPABASE_KEY;
